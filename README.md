@@ -9,7 +9,7 @@
 
 ### Sobre mí
 
-Me interesa lo que pasa por debajo: cómo se conectan las máquinas, cómo se endurece un sistema y cómo se rompe. Todo lo que aprendo lo termino probando en mi propio laboratorio en casa, que hoy corre sobre un servidor Debian y una máquina Kali.
+Me interesa lo que pasa por debajo: cómo se conectan las máquinas, cómo se endurece un sistema y cómo se rompe. Todo lo que aprendo lo termino probando en mi propio laboratorio en casa, que hoy corre sobre.
 
 - Preparándome para la certificación **CCNA**, con la idea de seguir hacia Security+ y GICSP.
 - Trasteando con dispositivos IoT y sistemas embebidos, sobre todo en lo que tiene que ver con su seguridad.
@@ -18,7 +18,6 @@ Me interesa lo que pasa por debajo: cómo se conectan las máquinas, cómo se en
 ### Herramientas con las que trabajo
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -27,15 +26,12 @@ Me interesa lo que pasa por debajo: cómo se conectan las máquinas, cómo se en
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Estadísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=IngSantiArias&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngSantiArias&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-### Dónde encontrarme
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Santiago Arias)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Santiagoariast1@gmail.com)
